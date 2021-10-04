@@ -207,8 +207,8 @@ p.number{
   border-radius: 50px;
 }
 .statementBtn i{
-  margin-top: 20px;
-  margin-left: 27px;
+  margin-top: 37px;
+  margin-left: 35px;
 }
 .statementHeading{
   background-color: white;
@@ -225,6 +225,9 @@ p.number{
   background-color: white;
   padding: 30px 20px 30px 25px;
   display: flex;
+}
+.fa, .fas {
+    font-weight: normal !important;
 }
 .payMode{
   margin-top: auto;
