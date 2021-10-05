@@ -210,8 +210,11 @@ p.number{
   border-radius: 50px;
 }
 .statementBtn i{
-  margin-top: 20px;
-  margin-left: 27px;
+  margin-top: 35px;
+  margin-left: 35px;
+}
+.fa, .fas{
+  font-weight: normal;
 }
 .statementHeading{
   background-color: white;
