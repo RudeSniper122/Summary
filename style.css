@@ -1,3 +1,6 @@
+:root{
+  --col-a: #df1f55;
+}
 *{
   margin: 0;
   padding: 0;
@@ -14,7 +17,7 @@ body{
 /* dashboard section */
 .dashboard{
   padding: 20px 20px 40px 20px;
-  background-color: #e72657;
+  background-color: var(--col-a);
   color: #fff;
   display: flex;
   justify-content: space-between;
@@ -94,7 +97,7 @@ p.number{
   border-radius: 25px;
 }
 .featureImg-4{
-  background-color: #e72657;
+  background-color: var(--col-a);
   height: 100px;
   width: 100px;
   color: white;
@@ -158,7 +161,7 @@ p.number{
   margin: 0 20px 20px;;
 }
 .IDs{
-  color: #e72657;
+  color: var(--col-a);
   font-size: 2.3rem;
   margin-bottom: 20px;
   font-weight: bold;
@@ -175,7 +178,7 @@ p.number{
 }
 .justBtn{
   display: flex;
-  background-color: #e72657;
+  background-color: var(--col-a);
   color: #ffffff;
   font-size: 2.2rem;
   padding: 15px 20px 15px 30px;
@@ -200,7 +203,7 @@ p.number{
   height: 100px;
   width: 100px;
   display: flex;
-  background-color: #e72657;
+  background-color: var(--col-a);
   color: #ffffff;
   font-size: 2.2rem;
   /* padding: 15px 20px 15px 30px; */
