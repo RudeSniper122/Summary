@@ -111,14 +111,15 @@ p.number{
   display: flex;
   align-items: center;
   justify-content: space-around;
-  background-color: #f5dee3;
-  border-radius: 0 0 40px 40px;
+  background-color: #e05369;
+  border-radius: 0 0 39px 39px;
   position: absolute;
+  color: white;
   bottom: 0;
   width: 100%;
 }
 .vmText{
-  color: black;
+  color: white;
   padding: 15px 0 15px 0;
 
 }
