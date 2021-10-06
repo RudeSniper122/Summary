@@ -48,6 +48,7 @@ body{
 .features{
   border-radius: 30px;
   background-color: #fff;
+  box-shadow: 0 2px 0px 0px  #aaa9a9;
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
@@ -252,15 +253,16 @@ p.number{
   font-weight: 600;
 }
 .viewMoreForStatement{
-  padding: 20px 40px;
+  padding: 10px 40px;
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  background-color: #f5dee3;
+  background-color: #d7354e;
   border-radius: 0 0 30px 30px;
   position: absolute;
   bottom: 0;
   width: 100%;
+  color: white;
 }
 .viewMoreForStatement i{
   margin-left: 20px;
