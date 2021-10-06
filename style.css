@@ -109,23 +109,22 @@ p.number{
   margin: 20px 0 0 25px;
 }
 .viewMore{
+  padding: 0px 25px;
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: flex-end;
   background-color: #d7354e;
   border-radius: 0 0 39px 39px;
   position: absolute;
-  color: white;
   bottom: 0;
   width: 100%;
+  color: white;
 }
 .vmText{
   color: white;
-  padding: 15px 0 15px 0;
+  padding: 15px 12px 15px 0;
 
 }
-
-
 
 
 /* menu bar section */
