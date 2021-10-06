@@ -55,17 +55,17 @@ body{
 }
  p.liveCount{
   color: black;
-  margin-bottom: 15px;
+  margin-bottom: 30px;
 }
 p.number{
-  color: black;
-  font-size: 70px;
+  color: #272727;
+  font-size: 60px;
   font-weight: bold;
 }
 .feature-1, .feature-2, .feature-3, .feature-4{
   flex: 44%;
-  border: 1px solid #9ea1a9;
-  box-shadow: 0 0 5px 0 #9ea1a9;
+  border: 1px solid #e6e6e6;
+  box-shadow: 0 6px 0 0  #393939;
   border-radius: 40px;
   margin: 3%;
   padding: 20px 0 90px 0;
@@ -78,8 +78,7 @@ p.number{
   margin-right: 50px;f
   padding: 25px 30px 0 30px;
   border-radius: 25px;
-}
-.featureImg-2{
+}.featureImg-2{
   background-color: #5fc7eb;
   color: white;
   margin-left: 20px;
