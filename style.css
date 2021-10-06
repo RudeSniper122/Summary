@@ -48,7 +48,7 @@ body{
 .features{
   border-radius: 30px;
   background-color: #fff;
-  box-shadow: 2px 4px 5px 0px #393939;
+  box-shadow: 0 2px 0px 0px  #aaa9a9;
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
@@ -65,8 +65,8 @@ p.number{
 }
 .feature-1, .feature-2, .feature-3, .feature-4{
   flex: 44%;
-  border: 1px solid #e6e6e6;
-  box-shadow: 0 6px 0 0  #393939;
+/*   border: 1px solid #e6e6e6; */
+  box-shadow: 2px 4px 5px 0px #393939;
   border-radius: 40px;
   margin: 3%;
   padding: 20px 0 90px 0;
